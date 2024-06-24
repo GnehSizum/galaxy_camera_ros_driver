@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+
+    <name>galaxy_camera</name>
+    <version>1.0.0</version>
+    <description>The ROS package for Daheng Galaxy Camera.</description>
+    
+    <maintainer email="muzs@foxmail.com">muzs</maintainer>
+    <license>TODO</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <export>
+    </export>
+
+</package>

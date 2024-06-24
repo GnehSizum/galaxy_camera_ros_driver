@@ -1,0 +1,4 @@
+camera:
+    name: "cam1"
+    SN: "KJ0190120005"
+    camera_info_url: "package://galaxy_camera/config/camera_info.yaml"
